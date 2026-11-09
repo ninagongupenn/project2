@@ -1,0 +1,8 @@
+ssh_keys/
+student_credentials
+.env
+__pycache__/
+*.pyc
+destination/cache/
+destination/out/
+destination/broadcast/
